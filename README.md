@@ -112,13 +112,6 @@ This project implements a **Q-learning agent** to solve the dynamic control prob
 
 ---
 
-## Planned Enhancements
-- Extend the implementation to handle continuous action spaces using **function approximation (e.g., neural networks)**.
-- Add dynamic adjustment of bin sizes for state discretization.
-- Implement policy gradient methods for comparison.
-
----
-
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
